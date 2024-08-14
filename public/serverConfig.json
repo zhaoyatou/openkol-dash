@@ -1,0 +1,22 @@
+{
+  "Version": "1.0.1",
+  "Title": "达人盟约",
+  "FixedHeader": true,
+  "HiddenSideBar": false,
+  "MultiTagsCache": false,
+  "KeepAlive": true,
+  "Layout": "vertical",
+  "Theme": "mingQing",
+  "DarkMode": false,
+  "Grey": false,
+  "Weak": false,
+  "HideTabs": false,
+  "SidebarStatus": true,
+  "EpThemeColor": "#69DACC",
+  "ShowLogo": true,
+  "ShowModel": "smart",
+  "MenuArrowIconNoTransition": true,
+  "CachingAsyncRoutes": false,
+  "TooltipEffect": "light",
+  "Locale": "zh"
+}
